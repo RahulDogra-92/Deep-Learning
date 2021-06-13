@@ -1,3 +1,3 @@
 # Neural Networks from Scratch 
 
-Neural Networks
+Neural Networks in Pytorch Style
